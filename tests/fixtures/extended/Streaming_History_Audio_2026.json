@@ -1,0 +1,7 @@
+[
+  {"ts":"2026-11-01T10:00:00Z","ms_played":210000,"master_metadata_track_name":"Electric Worry","master_metadata_album_artist_name":"Clutch","master_metadata_album_album_name":"From Beale Street to Oblivion","spotify_track_uri":"spotify:track:clutch1"},
+  {"ts":"2026-11-01T11:00:00Z","ms_played":180000,"master_metadata_track_name":"Mother","master_metadata_album_artist_name":"Danzig","master_metadata_album_album_name":"Danzig","spotify_track_uri":"spotify:track:danzig1"},
+  {"ts":"2026-11-02T12:00:00Z","ms_played":190000,"master_metadata_track_name":"The Mob Rules","master_metadata_album_artist_name":"Black Sabbath","master_metadata_album_album_name":"Mob Rules","spotify_track_uri":"spotify:track:sabbath1"},
+  {"ts":"2026-11-02T12:30:00Z","ms_played":5000,"master_metadata_track_name":"Skipped song","master_metadata_album_artist_name":"Clutch","master_metadata_album_album_name":"Other","spotify_track_uri":"spotify:track:short1"},
+  {"ts":"2026-11-02T13:00:00Z","ms_played":600000,"master_metadata_track_name":null,"master_metadata_album_artist_name":null,"episode_name":"Podcast"}
+]
